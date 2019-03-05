@@ -21,3 +21,8 @@
 - `Using MatplotLib package in Python for data visualization. Matplotlib is similar to ggplot2 in R which is a widely used package for data visualization. `
 
 - https://github.com/dev-pasa/PythonForData/blob/master/MatPlotlibForVisual.ipynb
+
+#### Source: 
+- For PySpark 
+- The Learning materials for PySpark are from Machine Learning with PySpark by Pramod Singh (Apress, 2019).
+*** https://github.com/Apress/machine-learning-with-pyspark
