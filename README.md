@@ -26,3 +26,5 @@
 - For PySpark 
 - The Learning materials for PySpark are from Machine Learning with PySpark by Pramod Singh (Apress, 2019).
 *** https://github.com/Apress/machine-learning-with-pyspark
+[comment]: #cover
+![Cover image](PySparkBook.jpg)
