@@ -22,6 +22,9 @@
 
 - https://github.com/dev-pasa/PythonForData/blob/master/MatPlotlibForVisual.ipynb
 
+- [comment]: #Course
+![Cover image](Course.jpg)
+
 #### Source: 
 - For PySpark 
 - The Learning materials for PySpark are from Machine Learning with PySpark by Pramod Singh (Apress, 2019).
