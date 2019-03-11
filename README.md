@@ -8,7 +8,7 @@ https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 1. Jupyter notebook for Exercise and Projects from Udemy course: Python data science and machine learning bootcamp.
 2. This course offers fundamentals of Data Science and Machine Learning using python. This is my learning process to understand Python and hopefully move towards PySpark and SparkR, along side Apache Airflow and Apache Kafka.
 
-#### Content
+##### Contents
 
     - Python for Data Analysis using NumPy 
     - Schema Evolutions
@@ -22,10 +22,10 @@ https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 - `Using MatplotLib package in Python for data visualization. Matplotlib is similar to ggplot2 in R which is a widely used package for data visualization. `
 
 https://github.com/dev-pasa/PythonForData/blob/master/MatPlotlibForVisual.ipynb
-- [comment]: #Course
+# Course
 ![Cover image](Course.jpg)
 
-#### Source: 
+##### Source: 
 - For PySpark 
 - The Learning materials for PySpark are from Machine Learning with PySpark by Pramod Singh (Apress, 2019).
 
