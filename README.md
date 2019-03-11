@@ -2,6 +2,7 @@
 
 ##### Learning Python for Data Science
 - Taught by Jose Portilla, course site: 
+
 https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 ## Course:
 ![Cover image](Course.jpg)
