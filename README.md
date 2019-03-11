@@ -1,14 +1,14 @@
 ### `Python For Data Analytics and Machine learning`
 
 ##### Learning Python for Data Science
-- Taught by Jose Portilla Course website: 
-
-1. Jupyter notebook for Exercise and Projects from Udemy course: Python data science and machine learning bootcamp.
-2. This course offers fundamentals of Data Science and Machine Learning using python. This is my learning process to understand Python and hopefully move towards PySpark and SparkR, along side Apache Airflow and Apache Kafka.
-
+- Taught by Jose Portilla, course site: 
 https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 ## Course:
 ![Cover image](Course.jpg)
+
+1. This repo contains Jupyter notebook for exercise and projects from this Udemy course.
+2. This course offers fundamentals of Data Science and Machine Learning using python. This is my learning process to understand Python and hopefully move towards PySpark and SparkR, along side Apache Airflow and Apache Kafka.
+
 
 ##### Contents:
 
