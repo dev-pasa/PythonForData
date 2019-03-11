@@ -7,9 +7,10 @@
 2. This course offers fundamentals of Data Science and Machine Learning using python. This is my learning process to understand Python and hopefully move towards PySpark and SparkR, along side Apache Airflow and Apache Kafka.
 
 https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
-# Course
+## Course:
 ![Cover image](Course.jpg)
-##### Contents
+
+##### Contents:
 
     - Python for Data Analysis using NumPy 
     - Schema Evolutions
@@ -24,8 +25,7 @@ https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 
 https://github.com/dev-pasa/PythonForData/blob/master/MatPlotlibForVisual.ipynb
 
-##### Source: 
-- For PySpark 
+##### Source For PySpark: 
 - The Learning materials for PySpark are from Machine Learning with PySpark by Pramod Singh (Apress, 2019).
 
 https://github.com/Apress/machine-learning-with-pyspark
